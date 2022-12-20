@@ -12,4 +12,7 @@ Este sistema no está desarrollado, el objetivo es armar la documentación funci
 > Requerimiento del sistema: 
 
 
+![]()
+
+
 
