@@ -24,6 +24,8 @@ Este sistema no está desarrollado, el objetivo es armar la documentación funci
 
 Luego de analizar lo requerido para el sistema de registro, comencé a construir la documentación.  
 Pensando en qué datos debe aceptar cada campo del formulario y que debería pasar si no se cumple con los datos requeridos.  
+  
+DOCUMENTACION
 
 
 
