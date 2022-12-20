@@ -1,6 +1,6 @@
 # Portfolio
 
-### Proyecto 1
+## Proyecto 1
 
  
 * [Documentacion]()   
@@ -8,7 +8,7 @@
 * [Casos de prueba]()    
     
     
-RESUMEN
+RESUMEN  
 
 El siguiente proyecto trata sobre un sistema web de stock que cuenta con un formulario para el registro de nuevos productos.        
 Este sistema no está desarrollado, el objetivo es armar la documentación funcional y diseñar las pruebas a partir de la misma.
@@ -24,7 +24,7 @@ Este sistema no está desarrollado, el objetivo es armar la documentación funci
 Luego de analizar lo requerido para el sistema de registro, comencé a construir la documentación.  
 Pensando en qué datos debe aceptar cada campo del formulario y que debería pasar si no se cumple con los datos requeridos.  
   
-DOCUMENTACION
+ DOCUMENTACION  
 
 Link:  [Documentacion proyecto 1](https://drive.google.com/file/d/1-m6j8l_vZMNgMXNQ6ZT0M19u9D782TLh/view?usp=share_link)  
   
