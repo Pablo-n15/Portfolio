@@ -3,8 +3,7 @@
 ### Proyecto 1
 
  
-* [Documentacion]()  
-* [Escenarios]()  
+* [Documentacion]()   
 * [Set de datos]()  
 * [Casos de prueba]()    
     
