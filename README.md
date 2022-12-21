@@ -3,7 +3,7 @@
 ## Proyecto 1
 
  
-* [Documentacion](#Documentación)   
+* [Documentacion](#Ejemplos-de-mi-trabajo)   
 * [Set de datos]()  
 * [Casos de prueba]()    
     
