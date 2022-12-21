@@ -23,14 +23,16 @@ Este sistema no está desarrollado, el objetivo es armar la documentación funci
 
 Luego de analizar lo requerido para el sistema de registro, comencé a construir la documentación.  
 Pensando en qué datos debe aceptar cada campo del formulario y que debería pasar si no se cumple con los datos requeridos.  
-  
-__DOCUMENTACIÓN__  
+ 
+ ## Ejemplos de mi trabajo
+ 
+__Documentación__  
 
 >Documentación funcional [Doc-Proyecto1](https://drive.google.com/file/d/1-m6j8l_vZMNgMXNQ6ZT0M19u9D782TLh/view?usp=share_link)  
   
 >Criterios de aceptacion [Acceptance-Criteria](https://drive.google.com/file/d/1zGhadC5V0osEw9xVshkq32J_4Yy8kjF4/view?usp=share_link)
 
-
+__Datos para las pruebas__
 
 
 
