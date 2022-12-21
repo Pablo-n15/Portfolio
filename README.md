@@ -1,6 +1,6 @@
 # Proyectos personales
 
-## -Sistema de stock
+## - Sistema de stock
 
  
 * [Documentacion](#Ejemplos-de-mi-trabajo)   
