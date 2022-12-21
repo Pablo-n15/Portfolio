@@ -38,7 +38,7 @@ __Datos para las pruebas__
 
 __Casos de prueba__ 
 
-Casos de prueba sistema web stock: [Test-Cases](https://docs.google.com/spreadsheets/d/1tM3ITyyDkT8uZyhExpO4nT3Whadfd4TB/edit?usp=share_link&ouid=105176983608863755433&rtpof=true&sd=true)
+Casos de prueba sistema web stock: [Test-Cases](https://docs.google.com/spreadsheets/d/1rJ0hbM8WvnNIS6GtqIF9hZiNMpWuoDGn/edit?usp=share_link&ouid=105176983608863755433&rtpof=true&sd=true)
 
 
 
