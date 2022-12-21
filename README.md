@@ -32,7 +32,8 @@ __Documentación__
   
 >Criterios de aceptacion [Acceptance-Criteria](https://drive.google.com/file/d/1zGhadC5V0osEw9xVshkq32J_4Yy8kjF4/view?usp=share_link)
 
-Una vez que termine de desarrollar la documentacion necesaria, pensando en los posibles escenarios comence a generar el set de datos para utilizar a la hora de diseñar los casos de prueba.
+Una vez que termine de desarrollar la documentacion necesaria, pensando en los posibles escenarios comence a generar el set de datos para utilizar a la hora de diseñar los casos de prueba.  
+
 __Datos para las pruebas__
 
 ![](https://github.com/Pablo-n15/Portfolio/blob/main/set-datos.jpg)
