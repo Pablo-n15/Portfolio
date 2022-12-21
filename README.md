@@ -34,6 +34,7 @@ __Documentación__
 
 __Datos para las pruebas__
 
+![](https://github.com/Pablo-n15/Portfolio/blob/main/SetDeDatos.jpg)
 
 
 
