@@ -1,8 +1,10 @@
 # **HOLA!**
 
-# Proyectos personales
-
-## - Sistema de stock
+# Take a shortcut :spiral_notepad:
+- :wave: [Sobre mi](#wave-about-me)
+- :computer: [Habilidades y herramientas](#computer-practical-skills-and-tools)
+- :clipboard: [Mis proyectos](#clipboard-my-projects)
+- :school: [Certificados y cursos](#school-certificates-and-courses)
 
  
 * [Documentacion](#Ejemplos-de-mi-trabajo)   
