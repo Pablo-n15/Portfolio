@@ -1,9 +1,9 @@
 # **HOLA!**
 
-# :round_pushpin:  Atajos 
+# :pushpin: Atajos 
 - :wave: [Sobre mi](#wave-Sobre-mi)
 - :computer: [Habilidades y herramientas](#computer-Habilidades-y-herramientas)
-- :clipboard: [Mis proyectos](#clipboard-my-projects)
+- :clipboard: [Mis proyectos](#clipboard-Mis-proyectos)
 - :school: [Certificados y cursos](#school-certificates-and-courses)
 
 
@@ -27,6 +27,7 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
   - **Java;**
 
 
+## :clipboard: Mis proyectos
  
 * [Documentacion](#Ejemplos-de-mi-trabajo)   
   
