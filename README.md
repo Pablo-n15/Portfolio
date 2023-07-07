@@ -1,6 +1,6 @@
 # **HOLA!**
 
-# :round_pushpin: Atajos 
+:round_pushpin: # Atajos 
 - :wave: [Sobre mi](#wave-Sobre-mi)
 - :computer: [Habilidades y herramientas](#computer-Habilidades-y-herramientas)
 - :clipboard: [Mis proyectos](#clipboard-my-projects)
