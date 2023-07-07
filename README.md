@@ -6,6 +6,11 @@
 - :clipboard: [Mis proyectos](#clipboard-my-projects)
 - :school: [Certificados y cursos](#school-certificates-and-courses)
 
+
+## :wave: Sobre mi
+Mi nombre es Pablo Soy estudiante universitario de informatica y me encuentro especializandome como Tester QA.
+
+
  
 * [Documentacion](#Ejemplos-de-mi-trabajo)   
   
