@@ -1,8 +1,8 @@
 # **HOLA!**
 
 # Take a shortcut :spiral_notepad:
-- :wave: [Sobre mi](#wave-about-me)
-- :computer: [Habilidades y herramientas](#computer-practical-skills-and-tools)
+- :wave: [Sobre mi](#wave-Sobre-mi)
+- :computer: [Habilidades y herramientas](#computer-Habilidades-y-herramientas)
 - :clipboard: [Mis proyectos](#clipboard-my-projects)
 - :school: [Certificados y cursos](#school-certificates-and-courses)
 
