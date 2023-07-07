@@ -8,7 +8,23 @@
 
 
 ## :wave: Sobre mi
-Mi nombre es Pablo Soy estudiante universitario de informatica y me encuentro especializandome como Tester QA.
+Mi nombre es Pablo. Soy estudiante universitario de informatica y me encuentro especializandome como Tester QA.
+
+Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado durante mi formacion.  
+
+## :computer: Habilidades y herramientas
+
+- Creacion de casos de pruebas y reporte de bugs.
+  - **Jira,**
+  - **Excel;**
+- Api testing.
+  - **Postman**
+- Manipulacion de datos.
+  - **Mysql,**
+  - **SQL Server;**
+- Otras herramientas
+  - **Git,**
+  - **Java;**
 
 
  
