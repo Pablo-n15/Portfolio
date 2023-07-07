@@ -30,6 +30,7 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
 ## :clipboard: Mis proyectos
 
 __- Sistema de stock de productos__
+
   La actividad de este proyecto fue tomada de una entrevista tecnica. Este sistema no está desarrollado, el objetivo era diseñar casos de pruebas apartir de una simple 
   documentacion. 
  
