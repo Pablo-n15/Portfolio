@@ -14,6 +14,7 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
 
 ## :computer: Habilidades y herramientas
 
+- Analisis de historias de usuario
 - Creacion de casos de pruebas y reporte de bugs.
   - **Jira,**
   - **Excel;**
