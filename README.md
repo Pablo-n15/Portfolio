@@ -14,11 +14,11 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
 
 ## :computer: Habilidades y herramientas
 
-- Analisis de historias de usuario.
-- Creacion de casos de pruebas y reporte de bugs.
+- Diseño y ejecución de casos de pruebas.
+- Reporte de defectos.
   - **Jira,**
   - **Excel;**
-- Api testing.
+- Pruebas de API (operaciones CRUD).
   - **Postman**
 - Manipulacion de datos.
   - **Mysql,**
