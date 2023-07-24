@@ -20,10 +20,10 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
   - **Excel;**
 - Pruebas de API (operaciones CRUD).
   - **Postman**
-- Manipulacion de datos.
+- Manipulación de datos.
   - **Mysql,**
   - **SQL Server;**
-- Otras herramientas
+- Otras herramientas.
   - **Git,**
   - **Java;**
 
