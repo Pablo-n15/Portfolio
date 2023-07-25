@@ -30,6 +30,6 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
 
 ## :clipboard: Mis proyectos
 
-__- Sistema de stock de productos__ [Click aqui](https://github.com/Pablo-n15/Proyecto-sistema-de-stock)
+__- Sistema de stock de productos [Testing Manual]__  [Click aqui](https://github.com/Pablo-n15/Proyecto-sistema-de-stock)
 
 
