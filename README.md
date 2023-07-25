@@ -31,6 +31,7 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
 ## :clipboard: Mis proyectos
 
 __Proyecto 1: Sistema de stock [Testing Manual]__  [Click aqui](https://github.com/Pablo-n15/Proyecto-sistema-de-stock)
+
 __Proyecto 2: Login OLX mobile [Testing Manual - Funcional]__ [Click aqui]
 
 
