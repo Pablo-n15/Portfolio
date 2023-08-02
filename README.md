@@ -2,7 +2,7 @@
 
 # :pushpin: Atajos 
 - :wave: [Sobre mi](#wave-Sobre-mi)
-- :computer: [Habilidades y herramientas](##computer-Habilidades-y-herramientas)
+- :computer: [Habilidades y herramientas](#computer-Habilidades-y-herramientas)
 - :clipboard: [Mis proyectos](#clipboard-Mis-proyectos)
 - :school: [Certificados y cursos](#school-certificates-and-courses)
 
@@ -35,5 +35,7 @@ Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado
 __Proyecto 1: Sistema de stock [Testing Manual]__  [Click aqui](https://github.com/Pablo-n15/Proyecto-sistema-de-stock)
 
 __Proyecto 2: Login OLX mobile [Testing Manual]__ [Click aqui](https://github.com/Pablo-n15/Proyecto-2)
+
+__Proyecto 3: BDDD con SQL SERVER__
 
 
