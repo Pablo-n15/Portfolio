@@ -36,6 +36,6 @@ __Proyecto 1: Sistema de stock [Testing Manual]__  [Click aqui](https://github.c
 
 __Proyecto 2: Login OLX mobile [Testing Manual]__ [Click aqui](https://github.com/Pablo-n15/Proyecto-2)
 
-__Proyecto 3: BDDD con SQL SERVER__
+__Proyecto 3: BDDD con SQL Server__  [Click aqui](https://github.com/Pablo-n15/Proyecto-3)
 
 
