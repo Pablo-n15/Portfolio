@@ -2,7 +2,7 @@
 
 # :pushpin: Atajos 
 - :wave: [Sobre mi](#wave-Sobre-mi)
-- :computer: [Habilidades y herramientas](#computer-Habilidades-y-herramientas)
+- :computer: [Habilidades y herramientas](##computer-Habilidades-y-herramientas)
 - :clipboard: [Mis proyectos](#clipboard-Mis-proyectos)
 - :school: [Certificados y cursos](#school-certificates-and-courses)
 
@@ -12,8 +12,10 @@ Mi nombre es Pablo. Soy estudiante universitario de informatica y me encuentro e
 
 Este es mi portfolio, aqui encontraras una muestra de proyectos que he realizado durante mi formacion.  
 
+
 ## :computer: Habilidades y herramientas
 
+- Analisis de historias de usario.
 - Diseño y ejecución de casos de pruebas.
 - Reporte de defectos.
   - **Jira,**
